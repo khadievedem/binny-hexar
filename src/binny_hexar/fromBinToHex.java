@@ -4,9 +4,6 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-/*
-Двоично-шестнадцатеричный конвертер
-*/
 
 public class fromBinToHex {
 
