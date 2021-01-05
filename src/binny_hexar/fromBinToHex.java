@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 Двоично-шестнадцатеричный конвертер
 */
 
-public class test {
+public class fromBinToHex {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
